@@ -1,0 +1,36 @@
+body {
+
+    padding: 0px;
+
+    margin: 0px;
+
+    background: #000;
+
+}
+
+p{
+
+    font: 1px;
+
+    light-height: 8px;
+
+    text-align: justify;
+
+    -web-kit-background-size: cover;
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+
+    background-position: center;
+
+    background:url(Picture.JPG)no-repeat center/ cover;
+
+    background-attachment: fixed;
+
+    -webkit-background-clip: text;
+
+    -webkit-text-fill-color: rgb(255,255,255,0);
+
+}
+
